@@ -1,0 +1,10 @@
+html{
+    background-color: beige;
+}
+.Potatoe{
+    padding: 40px;
+    font-size: 20px;
+    border:solid purple;
+    display: flex;
+    flex-direction: column-reverse;
+}
